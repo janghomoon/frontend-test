@@ -1,4 +1,4 @@
-# 패캠 강의 실습용
+# 패캠강의 실습용
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
